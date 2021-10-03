@@ -1,0 +1,16 @@
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.vbproj.AssemblyReference.cache
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.vbproj.GenerateResource.cache
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.vb
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\didan\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\didan\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
